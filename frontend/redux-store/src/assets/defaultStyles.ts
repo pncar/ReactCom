@@ -1,0 +1,3 @@
+const btn = "transition-all dark:text-primary-300 bg-primary-300 dark:bg-primary-700 p-2 px-4 text-sm rounded-md shadow-sm hover:bg-primary-200 dark:hover:bg-primary-600 active:shadow-inner active:bg-primary-400 dark:active:bg-primary-800";
+const btnDelete = "transition-all bg-red-600 text-primary-100 p-2 px-4 text-sm rounded-md shadow-sm hover:bg-red-500 active:shadow-inner active:bg-red-700";
+export {btn,btnDelete}

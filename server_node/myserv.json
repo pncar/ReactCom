@@ -1,0 +1,1618 @@
+{
+"users": [
+{
+"id": 0,
+"sex": "male",
+"avatar": "https://randomuser.me/api/portraits/men/3.jpg",
+"name": "Russ Lemke",
+"age": 92,
+"bio": "Eos ea molestiae molestias. Facilis autem tempora eaque sed suscipit. Quia excepturi sequi placeat rem ipsum non. Numquam omnis omnis qui qui ex commodi vel magni. Alias ut harum exercitationem consequatur hic molestiae nostrum. Maiores consectetur nesciunt cumque mollitia suscipit possimus.",
+"city": "East Velva",
+"address": "7493 O'Hara Unions Suite 087",
+"phone": "210.207.2658",
+"country": "Algeria",
+"mail": "uwolff@quitzon.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 1,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/4.jpg",
+"name": "Shaina Anderson",
+"age": 97,
+"bio": "Voluptatem odio iusto deserunt sequi explicabo qui tempore ipsa. Sunt rerum omnis vitae. Voluptas tenetur libero voluptates voluptatibus. Est et magni eos aut ut. Eaque quia et consequatur unde veniam. Voluptatem ut doloribus accusantium consequatur illum. Hic sit quidem similique et eius quo. Culpa qui sit voluptas cumque officiis rerum. Debitis et molestias adipisci corporis.",
+"city": "West Nikolas",
+"address": "61632 Schulist Throughway Suite 803",
+"phone": "+1 (727) 828-3329",
+"country": "Guinea",
+"mail": "bgislason@hotmail.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 2,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/23.jpg",
+"name": "Annette Moen",
+"age": 95,
+"bio": "Autem nihil ut asperiores. Architecto culpa eveniet ad a corrupti excepturi. Deleniti commodi eius qui placeat autem sunt consequatur. Dolorem quibusdam accusantium qui autem temporibus sed atque reprehenderit. Et reiciendis illum adipisci voluptas quis iusto. Et earum totam ipsam ipsum qui. Fugiat quaerat consequatur pariatur consequatur tempore et expedita. Quis dolores cumque odit et ipsam est.",
+"city": "Vanessaport",
+"address": "531 Rebeka Inlet",
+"phone": "+1-415-929-8372",
+"country": "Indonesia",
+"mail": "heather.breitenberg@rosenbaum.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 3,
+"sex": "male",
+"avatar": "https://randomuser.me/api/portraits/men/65.jpg",
+"name": "Ramon Murphy",
+"age": 32,
+"bio": "Optio id est vel possimus nisi. Molestias necessitatibus quidem quia et. Est excepturi aut eum eligendi distinctio. Expedita omnis accusamus ullam illo quisquam. Ex doloremque eos ipsa facilis laboriosam molestias. Odio totam ut velit porro. Sequi laborum nostrum et. Exercitationem in incidunt aliquid nisi. Pariatur molestiae officiis eligendi aut voluptatem et ut.",
+"city": "West Dovie",
+"address": "6327 Koelpin Gardens",
+"phone": "276.210.0660",
+"country": "Saint Pierre and Miquelon",
+"mail": "abdullah08@hotmail.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 4,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/3.jpg",
+"name": "Lavonne Haag",
+"age": 44,
+"bio": "Occaecati provident et blanditiis ipsum molestias. Nam nemo optio hic autem. Est voluptatum animi vel quia. Reiciendis omnis et et non qui laboriosam. Sunt culpa distinctio explicabo quia. Vero voluptatem autem facere dolorem placeat.",
+"city": "Runolfssonfort",
+"address": "134 Mills Canyon Suite 875",
+"phone": "424.913.5774",
+"country": "Honduras",
+"mail": "louie.farrell@stokes.net",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 5,
+"sex": "male",
+"avatar": "https://randomuser.me/api/portraits/men/83.jpg",
+"name": "Hilbert Bartoletti",
+"age": 72,
+"bio": "Mollitia omnis est dolores ea unde. Eos nam occaecati aut quis nihil. Doloribus qui voluptatem sapiente at. Id doloremque voluptatibus asperiores quidem temporibus sed veniam. Exercitationem et omnis aut ut vero. Vel voluptate voluptatum rerum sed. Ea odio excepturi commodi sunt a impedit sequi. Aliquam quae eveniet omnis temporibus amet.",
+"city": "Nikolaustown",
+"address": "662 Bruen Knoll",
+"phone": "+1-678-753-1816",
+"country": "Nauru",
+"mail": "pauline76@yahoo.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 6,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/32.jpg",
+"name": "Patsy Kilback",
+"age": 46,
+"bio": "Voluptatem deleniti natus incidunt quos labore id. Voluptatibus quia blanditiis ex quisquam assumenda. Non autem officia sit ab deleniti ea illo. Enim consequatur exercitationem exercitationem. Sunt vel illo qui qui et. Adipisci est delectus ut ex. Et dolor omnis necessitatibus laborum aliquam ipsum aut.",
+"city": "Loweburgh",
+"address": "5018 Meggie Estate",
+"phone": "+1-601-622-0168",
+"country": "Turkey",
+"mail": "uriel.ryan@gmail.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 7,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/30.jpg",
+"name": "Ebba Balistreri",
+"age": 31,
+"bio": "Consequatur eligendi et nam eligendi sapiente. Ex aliquam dolore quis praesentium nobis facere quis. Ipsa deserunt quis laborum laborum omnis sit. Asperiores repellendus autem non culpa. Nihil et sint sit cum voluptates autem. Accusamus quas ut corporis non id quisquam. Beatae quia libero expedita.",
+"city": "Whiteberg",
+"address": "962 Camilla Manor",
+"phone": "(828) 392-2563",
+"country": "Nigeria",
+"mail": "mertz.eliane@gmail.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 8,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/33.jpg",
+"name": "Wanda D'Amore",
+"age": 69,
+"bio": "Nam ut deleniti praesentium et ducimus. Praesentium expedita hic in consequuntur non ut. Rerum in minus aliquam fuga eos. Quasi voluptates illo est tenetur fuga. Veniam sed dolorem nesciunt illo qui labore et. Illum sit sit sint soluta sequi hic.",
+"city": "Port Electa",
+"address": "3047 Colin Key",
+"phone": "+1-661-839-2005",
+"country": "Sri Lanka",
+"mail": "beer.randall@yahoo.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 9,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/10.jpg",
+"name": "Demetris Wilderman",
+"age": 40,
+"bio": "Sit ex ducimus dolor incidunt. Officia quasi adipisci et et sit voluptas beatae corporis. Laborum tenetur sit rerum explicabo. Quaerat vero quo dolores natus ratione. Doloribus quod libero magni eos. Aut quia dolorem asperiores asperiores eos dignissimos et voluptatum. Provident animi repellendus quis itaque consequatur. Sed facere explicabo quisquam ipsam. Quibusdam molestias harum velit ratione.",
+"city": "South Isadore",
+"address": "986 Schmitt Garden Suite 942",
+"phone": "(380) 387-7548",
+"country": "Chile",
+"mail": "elijah09@yahoo.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 10,
+"sex": "male",
+"avatar": "https://randomuser.me/api/portraits/men/13.jpg",
+"name": "Delbert Carroll",
+"age": 45,
+"bio": "Vero aut nihil et ipsam minima error doloribus. Qui et distinctio aliquam necessitatibus nesciunt autem. Assumenda sapiente et et. Ut ut aut explicabo. Ut et voluptatem et repellendus ut. Beatae maiores dolor id vitae molestias eum debitis.",
+"city": "Beahanberg",
+"address": "130 Bartell Streets Apt. 755",
+"phone": "1-240-470-7039",
+"country": "Guadeloupe",
+"mail": "kennedi16@osinski.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 11,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/53.jpg",
+"name": "Letha Turcotte",
+"age": 71,
+"bio": "Eaque laboriosam sint cum voluptatem fugit non quia reiciendis. Nemo eum dolor est atque aut molestiae. Dolores qui ratione porro similique at fugiat. Similique voluptas aut enim et. Vitae a quos maiores. Nobis voluptates fugiat et provident sit possimus dolorem. Dolor commodi culpa cumque et.",
+"city": "Charityville",
+"address": "701 Phoebe Curve",
+"phone": "+1-458-982-8931",
+"country": "Panama",
+"mail": "rklocko@fahey.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 12,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/75.jpg",
+"name": "Elinore Carter",
+"age": 85,
+"bio": "Dolore consequatur nulla quam laboriosam. Explicabo officia vitae enim quia mollitia enim. Ut illo temporibus porro itaque. Deleniti et officiis aut eos. Omnis et quia nulla pariatur veritatis. Expedita quas rerum sed. Omnis sit quaerat aliquam magni.",
+"city": "Jermainburgh",
+"address": "298 Hilma Spring",
+"phone": "279.234.3279",
+"country": "Kuwait",
+"mail": "amani.johnston@buckridge.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 13,
+"sex": "male",
+"avatar": "https://randomuser.me/api/portraits/men/33.jpg",
+"name": "Tyree Rodriguez",
+"age": 16,
+"bio": "Tempore aut eveniet provident quod laudantium dolores non. Possimus provident eos ut omnis. Quaerat facilis molestias delectus a labore eligendi suscipit. Rem eum qui quod sed. Ab iste sint alias rem.",
+"city": "Port Cieloborough",
+"address": "1029 Stephon Station Apt. 053",
+"phone": "628-309-4742",
+"country": "Lithuania",
+"mail": "lucinda.smith@rogahn.biz",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 14,
+"sex": "male",
+"avatar": "https://randomuser.me/api/portraits/men/14.jpg",
+"name": "Jadon Mosciski",
+"age": 25,
+"bio": "Sed ut autem ducimus et quod. Libero enim aut voluptas amet. Ullam iste odit rerum consequuntur aperiam similique ab. Ab magni veritatis necessitatibus reiciendis ea et. Ut ea labore ea tenetur vel est. Qui ea similique nemo qui cumque.",
+"city": "Rickmouth",
+"address": "30423 Nikolaus Parkways",
+"phone": "929-877-9619",
+"country": "Saint Pierre and Miquelon",
+"mail": "ghagenes@hotmail.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 15,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/89.jpg",
+"name": "Aliyah Schaefer",
+"age": 16,
+"bio": "Aut ipsam accusamus molestiae officia omnis nulla. Et consequatur necessitatibus aut atque dolorem atque qui. Et iusto numquam enim culpa provident. Voluptate suscipit velit quo fugit inventore tempore aliquid. Non expedita vel aliquid amet veritatis nulla quia. Et quia quia iste omnis. Illo amet ut tenetur voluptatibus. Molestiae facilis quam et ea.",
+"city": "New Devon",
+"address": "98473 Matteo Spurs",
+"phone": "+1-325-216-6337",
+"country": "Nauru",
+"mail": "olson.maybelle@franecki.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 16,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/65.jpg",
+"name": "Elizabeth Toy",
+"age": 42,
+"bio": "Odio voluptas aut et nihil. Iste velit quo delectus doloribus quasi voluptates delectus odit. Est aut repellat sunt. Omnis ea enim officia quaerat. Perferendis et non debitis nisi.",
+"city": "Port Mckaylashire",
+"address": "55052 Onie Place Apt. 210",
+"phone": "+18722931439",
+"country": "Falkland Islands (Malvinas)",
+"mail": "lind.julie@schultz.net",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 17,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/51.jpg",
+"name": "Mckayla Halvorson",
+"age": 54,
+"bio": "Mollitia aut dolorem quis enim. Molestiae rerum ea ut ut. Praesentium vel reprehenderit enim doloribus id modi. Quas repellat molestiae et voluptas porro labore.",
+"city": "Lake Isabelview",
+"address": "726 Predovic Mews",
+"phone": "917.977.0108",
+"country": "Finland",
+"mail": "oweissnat@gmail.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 18,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/8.jpg",
+"name": "Nadia Koepp",
+"age": 69,
+"bio": "Voluptates et iure voluptate aliquam nulla ab est. Iure ipsum et nam. Inventore non facere rerum sit ratione. Architecto libero pariatur at recusandae ad. Blanditiis sunt esse quibusdam exercitationem et. Consequuntur ipsam animi nesciunt quidem esse aspernatur quo. Et ea cupiditate minima ab et impedit. Vel cumque quam dolores quia nisi harum unde.",
+"city": "Jessieburgh",
+"address": "134 Kiehn Streets",
+"phone": "+1-815-662-2539",
+"country": "Grenada",
+"mail": "devonte64@okuneva.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+},
+{
+"id": 19,
+"sex": "female",
+"avatar": "https://randomuser.me/api/portraits/women/61.jpg",
+"name": "Enola Collins",
+"age": 26,
+"bio": "Ipsa voluptas pariatur magni tempore quis accusamus. Odit tenetur quis ut ullam molestiae aspernatur fugiat. Eligendi quo quis fuga placeat. Aut dolor quisquam voluptatum voluptas. Aut expedita dolor iste est libero. Neque quia quod consequatur minus repellendus. Quaerat sunt beatae ipsa.",
+"city": "South Laurianneland",
+"address": "229 Alvena Parkway Apt. 761",
+"phone": "+1.463.929.7354",
+"country": "Sri Lanka",
+"mail": "schoen.genoveva@gmail.com",
+"cart": [],
+"settings": {
+"darkMode": false,
+"currency": "USD"
+}
+}
+],
+"products": [
+{
+"id": 0,
+"title": "Motorola Ut",
+"price": 1959,
+"discount": 0,
+"specifications": [
+"Ex.",
+"Quas.",
+"Commodi hic.",
+"Rerum."
+],
+"description": "Aliquam beatae qui ad velit veniam. Officiis eum facilis nulla voluptate quia non. Rem facilis vero doloribus cum ab. Vero voluptas animi quis ducimus at inventore aut. Mollitia ut magnam illo cumque saepe nemo. Nesciunt non sed deserunt praesentium quasi. Hic natus numquam laborum neque quis. Et ipsum impedit iure soluta provident voluptates earum. Dolorem culpa omnis error porro facere omnis. Deleniti aperiam dolor dolorem qui. Aut ratione ducimus debitis deserunt qui laboriosam. Consequuntur voluptatibus sapiente optio provident. Quis molestias hic tenetur repellat qui id. Occaecati quia voluptatem ut sed perferendis nobis. Quaerat laudantium eum voluptas consectetur. Magnam temporibus et et sit. Ut necessitatibus eius ut. Sunt unde eius ut qui blanditiis rem non. Similique unde assumenda perspiciatis numquam cumque.",
+"rate": 0.4,
+"published": {
+"date": "2024-04-30 15:14:12.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 1
+},
+{
+"id": 1,
+"title": "Huawei Et",
+"price": 1646,
+"discount": 59,
+"specifications": [
+"Cum architecto."
+],
+"description": "Facere impedit eaque hic rerum distinctio. Modi hic id occaecati aspernatur quia fugiat sunt vel. Quisquam dolore ab est nisi tempore. Earum nesciunt consequuntur qui quas. Ut molestias nulla doloremque eos animi provident. Et quaerat ut odio. Dolor quaerat nostrum illum vel. Quo dolores quisquam et. Voluptatem eos quam modi placeat. Qui eligendi facere sit voluptatem iusto. Vero molestias blanditiis ut hic accusamus quia. Quis sit dolores non et. Rerum aut quia nihil et dolorum. Enim tempore saepe dolores dicta cum et. Officia aut rerum ipsam occaecati tenetur. Doloribus reiciendis itaque unde deleniti iste. Voluptatibus sed neque eos ut quis commodi voluptas sed. Adipisci sint itaque aut quia. Alias quae aliquid inventore ut sunt temporibus. Blanditiis dolorem tempora magnam. Eum assumenda rem excepturi et voluptas. Dolorem ut molestiae odit. Saepe ad autem ea. Qui exercitationem laboriosam laborum mollitia.",
+"rate": 1.5,
+"published": {
+"date": "2024-05-09 13:33:48.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 15
+},
+{
+"id": 2,
+"title": "Motherboard Nam",
+"price": 863,
+"discount": 0,
+"specifications": [
+"Voluptas.",
+"Et."
+],
+"description": "Qui qui rem molestiae sint reiciendis nam. Rem laboriosam perferendis praesentium est sed. Id vel qui sapiente adipisci nam et. Consequuntur et non voluptate magnam inventore. Est architecto ducimus veniam et. Aut perspiciatis impedit perspiciatis rem. Accusamus iusto fugit aut deserunt voluptas deleniti. Voluptatum modi incidunt consequatur ut quisquam placeat dolore praesentium. Voluptas reiciendis totam explicabo impedit. Dolorum consequatur eius praesentium. Ut necessitatibus soluta dolorum sit maiores. Laborum a accusantium dolorem beatae ad eius aliquid ut. Sint commodi ipsam in est accusamus. Ut cumque voluptatem alias accusantium eligendi qui. Itaque unde facilis rerum repellat quo et. Porro quidem dolorem iste qui et placeat iste. Quo qui beatae aliquid sit et. Sapiente iste et dolor id hic doloribus suscipit. Aut nulla accusantium voluptate iure tempora est fugiat. Et error rerum sint enim magnam dolores. Porro omnis recusandae corporis qui. Molestias consectetur in animi tenetur esse iure. Iure mollitia porro debitis autem ut harum aut. Quasi nihil autem vel doloribus est quasi sed. Voluptatem accusantium cupiditate ipsum alias est. Libero atque ratione nihil eligendi.",
+"rate": 1.3,
+"published": {
+"date": "2024-05-04 23:19:17.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 7,
+"id_user": 7
+},
+{
+"id": 3,
+"title": "Motorola Magni",
+"price": 1208,
+"discount": 0,
+"specifications": [
+"Voluptas omnis.",
+"Quo ut.",
+"Voluptate maxime.",
+"Necessitatibus unde.",
+"Aliquam."
+],
+"description": "Sed eaque error suscipit cumque error quos. Dolores ipsam voluptas sint consequatur nihil similique voluptas. Aut amet tenetur et accusantium non. Aut consequatur sed aut assumenda. Et et aut aspernatur est quod. Illo distinctio eos quia est. Veritatis aut facilis corrupti. Modi aut vel omnis. Nostrum repudiandae eum ratione aspernatur veritatis autem. Nihil ab eos consequatur accusamus sequi nihil. Ut ea et eius odio dolor ut quaerat id. Harum reiciendis voluptatem quae distinctio iusto ut. Quasi itaque reiciendis delectus autem earum. Beatae amet eligendi est quia ut consectetur animi. Tenetur pariatur aut molestiae aperiam provident inventore. Id ipsam laborum eaque ducimus explicabo deleniti. Alias inventore tempore soluta eveniet rem. Nostrum nihil voluptas iste. Ipsam ipsa earum consequatur quo. Quod voluptatem exercitationem sint reiciendis maxime numquam necessitatibus illum. Temporibus minima perferendis non sunt autem labore rem. Ad repudiandae suscipit officiis nam magnam. Odio hic aut voluptas nostrum totam minima dolorum. Mollitia et sunt et quam quam ea repudiandae.",
+"rate": 2.3,
+"published": {
+"date": "2024-05-07 09:44:01.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 18
+},
+{
+"id": 4,
+"title": "Graphics Card Asperiores",
+"price": 4864,
+"discount": 10,
+"specifications": [
+"Et.",
+"Pariatur a.",
+"Consequatur repellat.",
+"Exercitationem."
+],
+"description": "Excepturi esse mollitia ut officia. Sit qui veritatis molestias hic fuga. Et sunt illum error doloribus omnis quis tempora. Doloremque est quaerat vero reiciendis odit rem et. Quos quas autem fugiat eligendi doloremque repudiandae. Dolores voluptatibus fugiat aut porro libero similique totam. Excepturi est inventore veritatis esse tempore temporibus est. Doloribus et praesentium non ut. Qui velit dolorem ut iusto tenetur. Qui perspiciatis consequatur soluta error itaque laudantium. Eaque sed repudiandae ut dolorum. Sapiente qui aspernatur repellendus. Odit ut sit rerum nulla aliquam sit amet. Labore omnis debitis assumenda. Vel eaque omnis sint ipsa sequi molestiae id. Repudiandae repellat sed omnis impedit quasi. Ut qui ut alias consectetur ut sequi dolores. Quia incidunt fugit at officiis. Magnam magni ut ab. Consequatur eum quo ad. Dolore doloremque similique illo vel cupiditate fugiat enim. Voluptatem architecto numquam hic impedit commodi quae pariatur. Illum quia consequatur eius aut. Earum possimus reiciendis expedita fugit.",
+"rate": 1.5,
+"published": {
+"date": "2024-05-10 13:34:07.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 5,
+"id_user": 12
+},
+{
+"id": 5,
+"title": "CPU Labore",
+"price": 3855,
+"discount": 0,
+"specifications": [
+"Sunt animi.",
+"Tempore dolores.",
+"Non."
+],
+"description": "Quia similique sit mollitia explicabo odio. Et cum et ullam incidunt earum ratione. Placeat quis perferendis tenetur delectus expedita perferendis. Quia molestiae omnis ducimus soluta magni. Veniam nemo molestiae tenetur quaerat voluptatem culpa aut voluptates. Sed dicta quia magni earum. Voluptatem aperiam laudantium vel fuga qui. Et quo voluptatem et enim eos aut nemo. Ea modi distinctio repudiandae et in omnis quis. Rem tempora unde fugiat fugiat et. Quo et qui ea. Tempora odit aut ea sunt. Quia nihil voluptatem in minus inventore eos quaerat animi. Et et reprehenderit nam vel sed distinctio voluptas sed. Exercitationem praesentium sint illo. Libero molestias corrupti cupiditate sit qui aut dolor libero.",
+"rate": 1.2,
+"published": {
+"date": "2024-05-08 03:56:25.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 6,
+"id_user": 14
+},
+{
+"id": 6,
+"title": "iPhone Iusto",
+"price": 1487,
+"discount": 0,
+"specifications": [
+"Illo.",
+"Distinctio."
+],
+"description": "Tempora adipisci ipsam voluptate distinctio voluptas. Ex in maxime voluptas possimus molestias distinctio. Voluptatem quae velit molestiae et enim veniam voluptas. Fugit est suscipit dolorem officiis. Eveniet perspiciatis non quia rerum. Accusantium aut doloremque provident amet sed. Quae ullam sit dolores accusantium voluptas. Ut eum eligendi necessitatibus culpa quis. Et aperiam rerum minima est voluptatibus exercitationem. Et rerum velit nemo modi. Provident expedita asperiores neque architecto aliquid sapiente incidunt. Sed delectus deserunt blanditiis nihil. Voluptatem iusto adipisci similique quod occaecati magnam. Dolor aliquam illo qui dolor facere culpa quo. Quo voluptatem eveniet similique dignissimos. Et et culpa quia culpa. Modi eveniet enim sunt amet quasi sunt quis consequuntur.",
+"rate": 5,
+"published": {
+"date": "2024-05-08 09:00:54.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 9
+},
+{
+"id": 7,
+"title": "Keyboard Provident",
+"price": 2679,
+"discount": 0,
+"specifications": [
+"Dolorem sit.",
+"Ea.",
+"Est blanditiis.",
+"Unde."
+],
+"description": "Eius laborum molestiae quia ducimus doloremque deleniti. Temporibus possimus ratione unde perspiciatis quidem voluptatem. Ea perspiciatis voluptatem rerum eos debitis. Esse est sunt ut animi enim. Perferendis eveniet quia odio error. Sint corporis accusantium fuga quia alias voluptas adipisci. Nisi unde quae quisquam vel debitis amet repudiandae rerum. Commodi tenetur corrupti nihil et. Incidunt aliquam laudantium impedit sint itaque ex minus corporis. Repellendus excepturi dignissimos tenetur minima non voluptate et. Sit neque beatae eos porro enim odio rerum. Ut vel in repellat nemo sed molestias. Soluta voluptas id quae. Eius non ipsum aut doloribus dolorem. Aut nihil est voluptatem aut ducimus sit. Ut officia optio vel at tenetur.",
+"rate": 1.2,
+"published": {
+"date": "2024-05-06 11:39:51.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 15
+},
+{
+"id": 8,
+"title": "HDD Rerum",
+"price": 2176,
+"discount": 0,
+"specifications": [
+"Natus sunt.",
+"Minima esse.",
+"Dolor ad.",
+"Labore."
+],
+"description": "Sequi veniam est laborum sit quo consequatur. Tempore sed blanditiis soluta qui excepturi eius ea. Et aut ea ut minus et aut. Odit exercitationem error consequuntur omnis atque nulla vitae. Sit inventore sapiente autem ut nihil aut velit. Accusantium vitae assumenda corrupti ut natus alias repellendus. Quia rem quidem fugiat pariatur quibusdam quaerat. Provident eaque fugiat expedita dolorem eaque illum. Iste asperiores nostrum numquam inventore voluptas. Exercitationem facere sunt quia perferendis assumenda. Ut facere excepturi aut ut. Quis porro et vel exercitationem molestiae atque quia sequi. Consequatur eaque aut suscipit nesciunt totam. Qui ut sit eius et consequatur ea. Voluptatem et aut quia iure. Omnis ea nam qui beatae quo similique. In voluptatum est ut pariatur dolor. Quae earum enim eius modi earum eos aut. Laborum necessitatibus aut excepturi.",
+"rate": 2.3,
+"published": {
+"date": "2024-04-28 13:41:01.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 4,
+"id_user": 15
+},
+{
+"id": 9,
+"title": "Monitor Sint",
+"price": 1342,
+"discount": 0,
+"specifications": [
+"Aliquam.",
+"Dolore."
+],
+"description": "Ad magnam cum praesentium voluptatibus quasi ut impedit. Vero iure ut et non perspiciatis. Est animi veritatis nesciunt at. Non totam et sint quasi quos quidem. Corporis enim minima tenetur velit quis culpa alias libero. Nihil tempore et in ullam quidem labore. Distinctio omnis hic ullam rerum facilis. Nobis nulla nihil voluptas quaerat nesciunt quos aut consequatur. Iure quae ut quasi laborum perspiciatis voluptas consequatur suscipit. Facilis libero ratione et totam dolores ut occaecati aut. Officiis rem expedita delectus quis provident cum magni. Qui autem quis nulla non voluptates magnam voluptatem. Tenetur enim cumque molestiae rerum dolor. Error et sint maxime beatae. Culpa et sunt voluptatum. Consequuntur officia aliquam cupiditate molestias voluptatum repudiandae impedit. Mollitia nesciunt qui error voluptate debitis nemo impedit. Pariatur maxime eveniet dolore quis. Doloribus assumenda aut porro distinctio qui. Minus quos quaerat dolor itaque consequatur et. Optio esse neque est recusandae ad. Quam nostrum consequatur rem odit aspernatur quia omnis. Ut nam dolores neque provident autem quasi. Aut corporis asperiores provident tempore molestiae voluptas. Eveniet eveniet qui beatae.",
+"rate": 4,
+"published": {
+"date": "2024-05-03 11:13:19.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 19
+},
+{
+"id": 10,
+"title": "Mouse Assumenda",
+"price": 1269,
+"discount": 0,
+"specifications": [
+"Provident.",
+"Beatae."
+],
+"description": "Labore et numquam sed et et. Aliquid deserunt vero et laborum consequatur voluptatem enim. Dolores voluptate ex laboriosam ad. Voluptatem eligendi nihil consectetur quia quidem. Corporis repellendus ea accusamus ad aperiam. Corrupti dolorem nemo non aspernatur dignissimos eum repellendus. Officiis consequatur assumenda sit eligendi enim aliquam. Omnis qui at aspernatur praesentium quidem provident laudantium. Minus earum temporibus voluptates quidem aliquam. Voluptatum dolore sit ducimus maiores nulla aliquid doloribus aut. Omnis omnis sunt molestiae quisquam eligendi officia. Sapiente sunt dolor fugiat sunt debitis. Temporibus velit voluptatem et iusto incidunt cum dolorum. Iusto ut officia consequuntur quia qui repellendus. Reiciendis sit accusantium aliquid ea aut nam.",
+"rate": 3.8,
+"published": {
+"date": "2024-05-04 11:42:15.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 17
+},
+{
+"id": 11,
+"title": "Monitor Minima",
+"price": 2295,
+"discount": 0,
+"specifications": [
+"Quidem dolor."
+],
+"description": "Consequuntur fuga consequatur necessitatibus odit soluta. Numquam id blanditiis aut laboriosam ullam id aspernatur. Numquam non sit sit distinctio. Consequatur in voluptatem vitae nihil. Earum labore accusamus recusandae assumenda. Dolor in voluptas et. Nesciunt libero saepe aut aut facere debitis. Voluptatem eum laudantium aut et eos mollitia. Eum voluptas voluptatem voluptatem aut et est impedit. Alias dolorem exercitationem qui consequatur voluptas. In laborum est maxime iure explicabo molestias. Labore perspiciatis modi nobis et ut. Iste aliquid voluptatem unde architecto consequatur et. Unde nulla quis quaerat dolorem. Est et et veritatis et. Aliquam sed ad assumenda qui. Enim sint qui blanditiis voluptatem quod possimus id. Omnis aut occaecati consequatur ratione quasi tempore repellendus. Est aut reprehenderit beatae exercitationem officia et quis. Exercitationem est et et. Corrupti quibusdam sint minima libero inventore temporibus quia. Dolore deleniti corrupti illo ex assumenda eum dicta. Alias nulla voluptatem et vel nihil omnis eum. Non neque qui voluptate beatae iure. Nesciunt sit odit sunt et. Eaque nihil ipsam officia nobis doloribus natus. Incidunt id adipisci ipsum. Ut velit a facilis sit rerum ducimus et. Debitis et voluptates alias ea.",
+"rate": 3.9,
+"published": {
+"date": "2024-04-30 18:38:50.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 17
+},
+{
+"id": 12,
+"title": "Monitor Sequi",
+"price": 4971,
+"discount": 65,
+"specifications": [
+"Explicabo.",
+"Occaecati.",
+"Sit consequatur."
+],
+"description": "Voluptatem optio ipsam soluta sunt. Qui non quaerat maiores minima provident. Sit sed assumenda aliquam inventore nesciunt enim itaque. Ut deleniti natus nihil quisquam atque et. Ea omnis aut omnis ea rerum sunt atque aut. Hic quas et iusto tenetur inventore. Aut quis voluptatibus alias sit ea nobis. Reiciendis quibusdam molestiae aut voluptatem libero officia. Facere consectetur quas optio voluptates et in. Tenetur ipsa unde ex. Odit et aspernatur fuga laborum quo beatae. Eos quam ducimus incidunt dolor commodi odit. Inventore modi earum sit enim est quidem. Ipsa blanditiis rerum et voluptas perferendis. Nulla sit odio rerum alias nesciunt ullam. Voluptatem laborum ut accusantium quia esse et dolorum. Quisquam optio quo aut beatae. Distinctio in fugit suscipit qui aut incidunt. Est omnis quam voluptatem sapiente. Et eos aut assumenda aspernatur. Qui quisquam omnis dicta provident sed aliquid sequi aut. Et rerum excepturi amet quo dolore. Ratione repellendus eveniet commodi similique autem enim.",
+"rate": 5,
+"published": {
+"date": "2024-05-03 01:26:43.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 16
+},
+{
+"id": 13,
+"title": "Monitor Consequuntur",
+"price": 1863,
+"discount": 0,
+"specifications": [
+"Eius.",
+"Iste sed."
+],
+"description": "Et accusamus velit necessitatibus rerum perferendis consequatur beatae. Voluptates sit occaecati sed in excepturi culpa. Magni qui possimus quo. Quae sit nulla molestiae odit. Nam mollitia ut officia. Et quo provident ad harum optio sapiente amet. Est esse at deleniti ut aut nemo autem. Qui in ut reprehenderit beatae. Quod non voluptates rerum voluptate et autem. Ut facilis et voluptas. Atque architecto aut voluptas excepturi deleniti sit qui qui. Enim ipsam qui nulla adipisci velit eum. Iste eos ut magnam consequatur id. Enim aperiam accusantium aut quidem. Molestiae et eaque molestias dolore minus labore. Molestiae iste nihil non aut aliquam ea. Minus cupiditate necessitatibus illum tempore. Necessitatibus necessitatibus debitis repellendus quia tempore. Maxime possimus porro quas deleniti pariatur veniam expedita. Ratione voluptate voluptas voluptatem illum. Qui et nam et voluptatibus sapiente expedita fuga. Quia qui voluptates accusantium eaque et. Architecto maiores voluptatem placeat repellat aperiam aut. Est commodi recusandae eveniet. Aut et vitae velit est voluptatem natus at. Porro laborum sint sed atque. Mollitia consequatur rerum perspiciatis minus nemo sapiente quibusdam. Nostrum nihil animi incidunt nostrum incidunt.",
+"rate": 0.2,
+"published": {
+"date": "2024-05-09 09:00:00.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 0
+},
+{
+"id": 14,
+"title": "Monitor Officia",
+"price": 1722,
+"discount": 0,
+"specifications": [
+"Natus.",
+"Vel recusandae.",
+"Et."
+],
+"description": "Ut libero laborum at veritatis perspiciatis fugit. Aliquid eligendi consequuntur et officia rerum qui magnam. Non excepturi placeat laboriosam ut commodi consequuntur aut. Voluptas temporibus nobis aliquam quia at sed. Alias et sapiente voluptatem ut voluptas ea. Velit magni consequatur iure dolorem aut repellat. Et dolor expedita magnam dolor. Sunt eos tenetur libero veniam nostrum. Voluptatem sint laboriosam aliquid tempora magnam. A iste veritatis enim nam architecto dolorem. Doloribus maiores sed qui dolor quia. Eveniet nemo autem esse officiis consectetur qui quo. Quia rerum sed sed aliquid distinctio cum doloribus. Et doloremque nam at inventore sed consectetur. Aut quod minus in eos qui corporis. Dolorum incidunt est ipsam quia deserunt. Autem nemo ea unde et iste quidem. Architecto et veritatis assumenda sunt ut itaque. Odit accusantium enim odio minus sequi quo aut ipsa.",
+"rate": 4.1,
+"published": {
+"date": "2024-05-10 23:27:10.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 10
+},
+{
+"id": 15,
+"title": "Graphics Card Culpa",
+"price": 2613,
+"discount": 28,
+"specifications": [
+"Officia quas."
+],
+"description": "Omnis sequi qui assumenda facere atque corrupti. Consequatur ut possimus non quasi illum nam maiores. Consectetur et quis et ut. Minus et deserunt ut voluptatum. Possimus qui sit fugit sapiente dolorem temporibus id a. Quo modi minima perferendis nihil molestias doloremque. Eos repudiandae voluptatem suscipit earum incidunt. Deleniti eius consequuntur cumque alias magni occaecati. Voluptas amet minima ullam aspernatur. Consequatur iste aut hic placeat. Esse quas quo ut tenetur ab ipsum enim. Minima dignissimos omnis aut aut aut earum. Ad laborum modi harum. Minus ipsum eum molestiae non omnis nobis neque. Est ut placeat culpa corporis. Quibusdam aliquid quia facere accusamus quod. Odio laudantium dolore enim dolores est. Sunt exercitationem nihil consequatur doloremque. Animi beatae harum explicabo fuga debitis cum rem. Velit qui ut quidem. Exercitationem dolore occaecati est iusto commodi quis quis quidem. Ducimus reprehenderit aliquam consequatur nostrum velit a id. Eos est inventore illum distinctio ex.",
+"rate": 2,
+"published": {
+"date": "2024-05-02 00:42:54.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 5,
+"id_user": 6
+},
+{
+"id": 16,
+"title": "Samsung Galaxy Aut",
+"price": 3311,
+"discount": 0,
+"specifications": [
+"Animi eaque.",
+"Iusto.",
+"Sit."
+],
+"description": "Quia ut qui facere non. Et quo harum voluptates dolorum consequatur veritatis cum. Ipsa officiis voluptates voluptate voluptates repellendus. Neque quo voluptates nesciunt. Veniam qui sed ducimus impedit sint. Ducimus et ut rem voluptatem eum nesciunt occaecati. Quis pariatur officia in quibusdam enim. Recusandae cupiditate cum et facilis. Culpa non nisi recusandae molestiae. Illum aperiam aliquam error molestiae expedita maxime similique. Veritatis nobis sed iure aliquam. Nihil voluptas ut sunt. Totam ea ratione delectus explicabo sit voluptas quae. Aspernatur et eum ipsum suscipit expedita eum debitis. Soluta iusto adipisci commodi ut minus. Dolores nulla deleniti dolor. Culpa neque possimus sed similique eius doloremque. Quis qui vel et quia est distinctio cum. Eaque molestias distinctio nobis tempore porro corporis. Rerum harum numquam provident amet asperiores molestiae.",
+"rate": 3,
+"published": {
+"date": "2024-05-01 05:22:34.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 14
+},
+{
+"id": 17,
+"title": "Keyboard Voluptas",
+"price": 4695,
+"discount": 74,
+"specifications": [
+"Voluptas.",
+"Suscipit voluptatem.",
+"Velit.",
+"Tempore explicabo."
+],
+"description": "Quo ab voluptatibus quia assumenda id sunt itaque. Excepturi vel eligendi est eligendi. Dicta ipsam et eius veritatis accusamus dolore. Doloremque voluptatem fugit sunt consequatur optio quia. Consequuntur ut perferendis recusandae animi nobis. Mollitia molestias quaerat repudiandae labore ducimus exercitationem sint. Quidem optio ut explicabo laborum. Eos animi neque dolor mollitia. Excepturi autem enim iusto. Quo consequuntur facilis ipsa illo. Omnis aut molestias dolor dolor aut. Et qui rerum qui ipsum quas. Numquam voluptatem ipsam non fugit rerum non repudiandae. Architecto ad est expedita consequatur est ea sint blanditiis. Ea quasi in voluptatum ratione ab. Quibusdam dolores a non dolore. Error sint qui saepe nemo qui ipsum autem. Doloremque non commodi maxime deleniti magnam. Corporis magnam autem ab officiis tempora nam. Beatae et excepturi ea qui ab ratione laudantium. Vero cum eveniet sapiente tempora quis. Culpa non aut vero aut quas id. Excepturi error ducimus est eum velit sit non. Optio nobis autem recusandae quibusdam.",
+"rate": 3.2,
+"published": {
+"date": "2024-05-11 07:47:29.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 18
+},
+{
+"id": 18,
+"title": "Xiaomi Nihil",
+"price": 1354,
+"discount": 0,
+"specifications": [
+"Atque."
+],
+"description": "Aut suscipit aut voluptatum architecto delectus. Sunt alias nesciunt eos assumenda aliquam. Veniam sed asperiores non autem velit. Non est ut ut non aut doloremque voluptatem et. Corrupti vitae qui aut dolores rem nam fuga. Laboriosam consequatur ea voluptatum deleniti aut. Commodi est maxime similique cumque. Et dolor voluptas est. Eaque rem commodi veniam eaque aut nobis qui. Sed et molestiae iure aut quibusdam recusandae et. Et sequi minima ipsa iste incidunt quasi. Rerum omnis eum totam soluta. Ut labore corporis ad in et atque possimus dignissimos. Aliquam dolor fuga dolore minima minus qui quos. Pariatur officiis sit vitae eos et sit. Dolore ut commodi alias beatae cumque. Eos laborum ea ut quia consequatur dolore.",
+"rate": 2.3,
+"published": {
+"date": "2024-05-01 12:01:52.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 6,
+"id_user": 13
+},
+{
+"id": 19,
+"title": "Keyboard Ducimus",
+"price": 1308,
+"discount": 0,
+"specifications": [
+"Rerum doloremque.",
+"Quos.",
+"Adipisci."
+],
+"description": "Harum id maiores quod voluptates. Consequatur soluta nihil fugiat beatae laboriosam et dicta. Accusamus similique impedit deserunt voluptatum id ut. Sed rerum sit rem earum debitis necessitatibus. Enim saepe perspiciatis commodi tempora cupiditate. Accusamus repudiandae sed ut consequatur. Corrupti tenetur voluptatem quasi qui quas vel. Facilis nihil omnis architecto. Illum libero omnis veritatis. Ratione atque quisquam rerum dignissimos fuga qui. Consequatur ut doloribus in incidunt velit quibusdam. Dolor vero sunt repudiandae quae ut ut. Ad vitae aperiam aut quasi. Cumque maiores porro maiores qui error tenetur eligendi. Expedita maiores ab ex exercitationem. Et recusandae ullam delectus et quod. Et eos nobis culpa voluptate est minima labore ullam. Tenetur laborum nisi ratione atque et aut. Sed est voluptatibus in labore. Possimus odit est consequuntur numquam accusamus necessitatibus. Atque cum dignissimos est praesentium. Cumque sapiente ullam velit quod ipsum voluptas ut atque.",
+"rate": 3,
+"published": {
+"date": "2024-05-10 23:24:41.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 16
+},
+{
+"id": 20,
+"title": "Graphics Card Minus",
+"price": 3509,
+"discount": 0,
+"specifications": [
+"Nesciunt at.",
+"Reiciendis."
+],
+"description": "Et natus minus quas alias laboriosam corporis. Earum sint corrupti molestiae voluptatem dolor sapiente. Atque autem veritatis cupiditate eos. Veniam ratione perferendis voluptatibus nostrum vero consequatur quia enim. Voluptatem enim iusto et nemo recusandae doloremque voluptate consequatur. Debitis aspernatur accusamus voluptas totam rerum laborum est repellendus. Aut corrupti nobis aut. Veritatis ea similique officiis id fugiat qui eos. At quia nihil cupiditate fugiat assumenda qui et. Sed ut numquam placeat qui magnam officiis. Animi nobis ipsa molestiae quis. Sed est ratione tempora consequatur. Eos sint voluptatum et est qui. Aut enim dicta nisi. Temporibus voluptas aut voluptatem. Similique atque reprehenderit voluptatem exercitationem consequatur ipsam nihil. Ullam dolores illo accusantium dolorum nisi. Non voluptatibus veniam voluptas fuga suscipit in.",
+"rate": 3.7,
+"published": {
+"date": "2024-04-28 04:33:55.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 5,
+"id_user": 19
+},
+{
+"id": 21,
+"title": "HDD Fuga",
+"price": 4265,
+"discount": 52,
+"specifications": [
+"Explicabo.",
+"Voluptates quia."
+],
+"description": "Autem harum quis consequuntur nisi voluptatem eos. Tempore ullam nobis voluptas et voluptatem ullam explicabo. Et qui quia qui molestias. Magni recusandae repellendus culpa iure repellendus expedita. Impedit non perspiciatis veniam nulla. Totam inventore autem libero non. Vel aliquam ipsam nam perspiciatis illum eos quos quibusdam. Nisi adipisci quasi officiis maxime delectus. At officiis quaerat saepe ut. Fugiat animi voluptas sed velit ut. Quia impedit voluptas est consequuntur. In eum commodi ut voluptas laboriosam dolor quaerat. Esse vero voluptate non velit quae saepe rem. Est dolores libero repellendus culpa reiciendis.",
+"rate": 1.5,
+"published": {
+"date": "2024-05-11 17:00:47.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 4,
+"id_user": 1
+},
+{
+"id": 22,
+"title": "Keyboard Esse",
+"price": 3525,
+"discount": 23,
+"specifications": [
+"Temporibus.",
+"Ut.",
+"Quia."
+],
+"description": "Est nulla odio amet officiis minima ducimus et. Nihil perferendis incidunt illum delectus sed non. Fugiat autem fugiat quidem illo cupiditate dolorem dolorem. Qui ex doloremque quidem recusandae esse corrupti. Fugiat aliquam quo harum assumenda est maiores facilis amet. Vero rerum quam ab. Praesentium qui nostrum provident. Aliquid rerum enim et aut velit voluptatem. Quis laborum repellat quia id et. Exercitationem delectus est sed minus earum. Delectus dolores et quia omnis sit modi quisquam. Odio eos aut aut repudiandae quas. Voluptas id deserunt eligendi consequuntur adipisci. Impedit pariatur quibusdam harum assumenda optio. Aut qui quasi commodi nihil sequi mollitia odit. Voluptate sed quisquam molestiae modi. Excepturi ut sed aut odio vero. Maiores unde minima odio rem aut excepturi dicta. Dolor quaerat voluptatem sequi aperiam expedita. Ut ex quis ab natus. Ex consequuntur nobis ut temporibus. Quia aliquid tempore cum esse excepturi. Est voluptate non eos libero et similique non harum. Praesentium voluptates ut a. At est doloribus qui aspernatur.",
+"rate": 0.1,
+"published": {
+"date": "2024-05-05 09:04:30.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 3
+},
+{
+"id": 23,
+"title": "Huawei Ab",
+"price": 4732,
+"discount": 0,
+"specifications": [
+"Occaecati placeat."
+],
+"description": "Sit nemo quis ipsam tempora sint repudiandae dicta. Alias ipsam sed dolores aut. Rerum aut nihil qui est fugiat. Laboriosam et enim repellat. Itaque facilis illo necessitatibus harum repellat mollitia est. Autem molestiae repudiandae rerum voluptatem illum qui. Pariatur commodi nemo cumque magni quisquam assumenda. Distinctio quas temporibus est iste. Nobis eius sed blanditiis. Molestiae et qui tempore quam ipsam error. Doloribus hic quos earum facere. Quo est illo autem saepe quasi nobis. Reiciendis enim quibusdam temporibus quibusdam id explicabo. Aut sit est maiores quod et. Voluptatibus ut ipsa quibusdam. Neque nisi optio ea ratione maxime. Atque sint est rerum omnis. Nulla soluta est quia non esse. Aperiam exercitationem qui eaque. Culpa facere sit earum repellendus sint eius voluptates. Laborum velit cumque est molestiae occaecati expedita. Quas et optio facere dignissimos et assumenda et eaque. Iste iste laboriosam rerum. Aliquam ut consequatur in illo dignissimos est consequatur. Est illo magni provident quia et accusamus distinctio. Non et soluta consequatur eligendi. Et maxime sapiente neque dignissimos.",
+"rate": 4.8,
+"published": {
+"date": "2024-04-27 22:13:25.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 16
+},
+{
+"id": 24,
+"title": "SSD Illum",
+"price": 908,
+"discount": 0,
+"specifications": [
+"Voluptate est.",
+"Fuga.",
+"Cupiditate."
+],
+"description": "Ex ex aliquam sunt. Iste error voluptatum beatae. Et recusandae ut ducimus qui culpa dolores. Consequatur dignissimos minus autem illum id. Itaque vitae corrupti quos numquam magni laboriosam mollitia. Eveniet soluta eum facilis rerum sed perferendis itaque. Voluptas facere temporibus voluptatum nam. Dolor eos aperiam repellat perferendis est dignissimos eum. Asperiores et corrupti dicta impedit quasi blanditiis accusantium. Enim consequatur aut adipisci sit suscipit omnis nesciunt deleniti. Est et atque minima labore ipsum explicabo. Id voluptate laborum quaerat repellendus ut soluta. Sed explicabo fuga dolorem eum amet quam perspiciatis. Voluptas sunt dolor aut earum. Voluptas occaecati debitis ipsa ut.",
+"rate": 3.4,
+"published": {
+"date": "2024-05-06 17:47:19.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 13
+},
+{
+"id": 25,
+"title": "Mouse Maiores",
+"price": 4035,
+"discount": 0,
+"specifications": [],
+"description": "Voluptates optio placeat sint vel expedita. Ipsum pariatur consectetur recusandae porro dignissimos sed et. Molestiae neque consequatur esse animi numquam nam expedita. Et est repellendus quisquam sed quaerat. Ut perspiciatis et maxime sed culpa voluptatem. Occaecati sed omnis dicta molestias tempora aut consequatur. Cupiditate deserunt nesciunt soluta est quod laboriosam. In qui modi ea asperiores soluta sit vero itaque. Sequi inventore atque vel voluptatem. Dicta dolor ullam eum qui nisi iusto minima deserunt. Voluptatem necessitatibus aliquam totam unde. Ut reprehenderit officiis cumque veritatis explicabo. Enim error ut beatae similique rem. Fugit distinctio at totam beatae. Cumque voluptatibus qui accusamus voluptatum est est nihil aut. Facilis commodi optio perferendis. Dolorem iste sit optio velit. Aspernatur voluptatem aut beatae sunt. Ipsa explicabo explicabo tenetur suscipit repellat quo quidem. Reiciendis fugiat earum animi laudantium eum facere blanditiis. Voluptatum tempore dolorum dolores fuga eveniet libero voluptatibus. Natus dolor et aut dicta veniam et. Illo voluptatem necessitatibus consequatur dolores quisquam. Vero voluptas omnis ducimus nisi.",
+"rate": 0.3,
+"published": {
+"date": "2024-05-04 10:43:36.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 13
+},
+{
+"id": 26,
+"title": "SSD Corporis",
+"price": 2569,
+"discount": 11,
+"specifications": [
+"Aspernatur.",
+"Autem."
+],
+"description": "Et laborum blanditiis aliquid voluptate doloremque dolorum qui. Quibusdam saepe culpa laborum reiciendis impedit et voluptatem. Et optio enim est sed tempore. Dolorem dolorem cupiditate vel cum tempora mollitia. Id eum facilis qui accusantium perspiciatis sed dolore. Non quia nulla a assumenda. Et in illum iste ut aut quibusdam iste. Fuga rerum possimus qui vitae ab temporibus autem. Repudiandae cupiditate et aut. Quos ratione illo ab laboriosam iure et. Eaque animi aut libero facere illum quasi sint. Provident inventore corporis aperiam omnis eos quisquam quod. Corrupti ratione iste eaque. Architecto sapiente ut aliquam dolorem unde ab. Officiis quidem quis placeat maiores. Voluptatibus sequi culpa quo consequatur molestias excepturi temporibus. Laudantium fuga excepturi dolorem sed cum numquam nostrum. Voluptatum accusamus sunt voluptas blanditiis. Sunt quam sed incidunt voluptatem. Fuga voluptatem quia aut necessitatibus veritatis maxime vitae optio. Vel facere molestiae dolorem et quasi sunt reiciendis. Eaque ab repudiandae aut velit repudiandae est. Nostrum sed accusantium sed exercitationem sed est necessitatibus. Iure at et beatae asperiores quia. Consequatur quod possimus voluptates ex. Consequatur velit est nihil sequi. Delectus libero et omnis.",
+"rate": 0.5,
+"published": {
+"date": "2024-05-08 17:31:55.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 0
+},
+{
+"id": 27,
+"title": "SSD Et",
+"price": 2232,
+"discount": 0,
+"specifications": [
+"Illum.",
+"Recusandae.",
+"Corporis.",
+"Dignissimos."
+],
+"description": "Dolorum et quaerat consequuntur quo. Enim laborum ea officiis occaecati consequatur fugit necessitatibus. Voluptatum sit sit est facere nostrum pariatur. Est et et saepe sint sint. Dignissimos a id sit veritatis. Voluptates ullam facilis autem. Reprehenderit porro repudiandae fuga sed enim. Quibusdam incidunt aut cum. Maxime est laborum modi. Delectus quas beatae debitis exercitationem. Soluta labore autem et. Molestias eos nihil est aut corporis voluptatem. Nihil vel repellat dolores enim non odit et. Magni consectetur non officiis earum id aperiam atque accusantium. Quae qui est totam sint quo voluptatem. Similique praesentium quos atque omnis earum velit. Asperiores et illum aut quia earum totam et. Omnis praesentium est saepe dignissimos deserunt unde quibusdam.",
+"rate": 0.5,
+"published": {
+"date": "2024-04-28 16:42:20.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 14
+},
+{
+"id": 28,
+"title": "SSD Aut",
+"price": 3280,
+"discount": 0,
+"specifications": [],
+"description": "Quo perferendis aut enim suscipit eum nisi. Ut dolores sequi cupiditate molestias consequatur facilis dolore. Dolorem reiciendis quasi sed laborum quaerat fuga molestiae. Eum debitis dolorem cum occaecati tempore sunt pariatur. Neque distinctio unde labore nobis aut. Et corporis dolor vel consequatur nihil. Esse cupiditate ut perspiciatis id id. Quia quis ipsam exercitationem architecto non non. Amet beatae quam odit maiores et cum quidem provident. Odit rem velit natus nihil a. Laboriosam animi accusantium amet nulla nulla. Itaque ut aut id provident. Eligendi error expedita ut soluta consequatur. Eum amet quo optio illo aut qui eaque.",
+"rate": 5,
+"published": {
+"date": "2024-05-06 05:32:59.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 2
+},
+{
+"id": 29,
+"title": "HDD Enim",
+"price": 3086,
+"discount": 0,
+"specifications": [
+"Dolorum ipsa.",
+"Quam maxime.",
+"Quis."
+],
+"description": "Quis voluptates corrupti debitis ducimus. Et similique voluptatem accusamus consequatur. Suscipit nostrum dolores dolorem harum praesentium. Temporibus laboriosam magnam odio. Ut sit cupiditate ab eveniet. Quasi quam quod molestiae optio est veniam. Aut est consequatur molestias quia cumque aliquid cumque quos. Ad iste voluptas porro qui. Soluta nemo reprehenderit occaecati et et. Distinctio voluptas sint quod ipsam at veritatis quidem. Accusamus dolores sit asperiores. Consectetur voluptas et nisi. Voluptatibus cupiditate aut at officiis sunt culpa at perferendis. Officia voluptatem accusamus totam debitis amet tempora. Quae dolores nam ut praesentium consequuntur omnis. Consequatur esse quo veniam est. Nesciunt sunt iste similique ullam. Facere sit eos quae rerum. Aliquid inventore doloremque velit assumenda recusandae tenetur.",
+"rate": 4.8,
+"published": {
+"date": "2024-05-07 10:54:06.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 4,
+"id_user": 3
+},
+{
+"id": 30,
+"title": "SSD Rem",
+"price": 3305,
+"discount": 0,
+"specifications": [
+"Non fuga.",
+"Repudiandae.",
+"Ea.",
+"Et.",
+"Ipsum."
+],
+"description": "Aliquam veniam placeat deleniti libero qui rerum. Beatae voluptas et sequi. Saepe dolor vel nemo qui rerum consequuntur occaecati. Quidem totam ea laboriosam sint qui repellat. Esse vel animi maiores perspiciatis placeat aut. Ut porro ab perspiciatis dolores quis. Commodi est explicabo perferendis qui in assumenda voluptatum. Deserunt voluptas eum earum veniam maiores adipisci non. Minus provident nesciunt eum in corrupti omnis. Excepturi aut et ut in. Non dolorum nemo sit nobis deleniti. Possimus iste ad expedita minima vel eveniet. Odit tempore nihil hic est unde blanditiis quidem eius. Sit perferendis exercitationem accusamus sapiente omnis. Rem temporibus nesciunt hic. Temporibus ex corporis voluptates veniam vel quia. Modi ducimus iure omnis.",
+"rate": 1.5,
+"published": {
+"date": "2024-05-04 20:40:13.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 4
+},
+{
+"id": 31,
+"title": "Sony Xperia Ea",
+"price": 2535,
+"discount": 0,
+"specifications": [
+"Iste.",
+"Sunt sunt."
+],
+"description": "Rerum voluptate id non cumque cum. Ea in aliquid asperiores eligendi ratione maxime. Ullam blanditiis suscipit ducimus magni culpa facere. Sit est velit accusantium dolorem eum pariatur molestiae. Iusto porro quod quia ad. Rerum iure totam similique in. Eos omnis sit laborum similique esse ex illum expedita. Incidunt sint libero unde voluptas delectus asperiores consequatur minima. Molestiae et velit est tempore asperiores quibusdam. Corporis ex fugit debitis sint deserunt corrupti. Harum ipsam voluptatum maxime asperiores. Officia aut ut minima aut expedita repellat. Fugit ab molestiae doloribus ut doloremque dolorem. Expedita et qui unde et distinctio accusantium eveniet. Omnis culpa amet praesentium voluptates autem ab tempora. Dolorem et dicta modi enim qui enim.",
+"rate": 2.5,
+"published": {
+"date": "2024-05-05 09:06:35.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 4,
+"id_user": 0
+},
+{
+"id": 32,
+"title": "Mouse Ut",
+"price": 3325,
+"discount": 0,
+"specifications": [],
+"description": "Qui sit sed non eum adipisci consectetur. Dolorum est commodi est sunt nemo occaecati libero. Voluptas cum ipsa recusandae rem nesciunt. Veniam quam architecto qui quaerat natus. Quos quasi sed laudantium praesentium ut. Dolores aut itaque est modi. Enim voluptatem ab quas eum omnis. Ad voluptate sequi voluptatem et animi maxime nobis. Et similique nulla odit ex nihil odio blanditiis. Natus quis officia voluptatem. Quidem necessitatibus voluptas ab facere ad. Laudantium voluptas omnis neque tempora. Consequatur beatae quia autem ut omnis. Praesentium distinctio reprehenderit totam culpa quo aperiam. Nam est culpa architecto vitae est quia omnis. Neque illo nesciunt minus eius animi dignissimos qui inventore. Eum quos et et nam dicta.",
+"rate": 3.2,
+"published": {
+"date": "2024-04-30 01:11:54.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 17
+},
+{
+"id": 33,
+"title": "Sony Xperia Aliquam",
+"price": 1730,
+"discount": 68,
+"specifications": [
+"Sequi reprehenderit.",
+"Eos repellendus.",
+"Quia dolorem."
+],
+"description": "Dolore officiis aut ex cupiditate et soluta ipsa rerum. Et necessitatibus nulla aut non aut. Facilis quia dolorem consequatur non voluptas eligendi. Sunt suscipit veritatis aut voluptas ex nulla. Nihil ducimus voluptatem maiores minima deleniti impedit pariatur. Rerum sunt hic omnis. Dolor veritatis ratione similique. Eligendi est debitis sit aliquid ipsum eum. Quibusdam vel quia esse impedit. Quia fugiat dolor aut accusantium amet nihil. Quam magni molestias ex in voluptas blanditiis. Culpa sint quia eos error. Quod quis ducimus sed pariatur beatae esse omnis. Illum architecto dolor et. Dolor cum dolor consequatur a consequatur modi. Veritatis est illo rerum suscipit molestiae. Ullam natus et voluptatum et animi pariatur consequatur.",
+"rate": 0,
+"published": {
+"date": "2024-05-02 08:37:18.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 4,
+"id_user": 17
+},
+{
+"id": 34,
+"title": "Mouse Cum",
+"price": 599,
+"discount": 0,
+"specifications": [
+"Et expedita."
+],
+"description": "Et natus corrupti magnam non excepturi et atque molestias. Ullam incidunt minus amet vitae aut. Eum quis ipsam quia alias dolorem. Non voluptatum odit voluptatibus nisi eum sapiente omnis a. Veniam nesciunt dolor tenetur aut blanditiis. Omnis atque aperiam porro rerum molestiae. Provident mollitia iure ullam officia quas in vel est. Voluptatibus ipsam laboriosam adipisci error illum in non quibusdam. Assumenda corrupti rerum et dolore vel occaecati. Veniam accusamus aliquam id adipisci voluptates facere. Deserunt delectus ut nemo qui. Velit dolorum fugiat facere unde velit quibusdam voluptatem. Asperiores ea consequatur omnis molestiae ex.",
+"rate": 4.1,
+"published": {
+"date": "2024-05-05 03:36:57.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 7
+},
+{
+"id": 35,
+"title": "Motherboard Repellendus",
+"price": 1457,
+"discount": 0,
+"specifications": [],
+"description": "Eum repellendus iste culpa nemo assumenda aliquam. Ex quam ex occaecati asperiores error distinctio qui. Animi qui doloremque incidunt. Quia qui pariatur et fuga enim est quaerat. Provident nostrum optio facilis culpa qui. Et soluta accusantium ipsum. Ut consequatur consectetur numquam debitis ratione nulla ullam. Voluptatem omnis aliquam voluptas libero perferendis. Nisi sed adipisci voluptatem est sit nostrum iste explicabo. Ducimus dicta consequatur quaerat fugiat. Ducimus quia perferendis laborum consectetur odio quas iste minus. Doloremque consectetur ut laudantium maiores accusamus quisquam voluptatem atque. Aspernatur delectus et vel hic quis. At repudiandae voluptas blanditiis molestiae autem aut accusamus sint. Eius dolores nostrum ipsam rerum aut temporibus quae. Autem quas quia eius quo esse eum. Incidunt ab ut maiores dolore tempora. Quidem ut sed accusamus qui delectus. Itaque provident alias magnam. Eos vel eos ratione enim dicta. Incidunt molestias aperiam expedita possimus dolores eos. Ea fugit cumque architecto culpa fugiat quis voluptatem. Sed cum quisquam ab est et. Soluta rerum eum sint ipsa iste. Cum fuga deleniti delectus impedit.",
+"rate": 2.6,
+"published": {
+"date": "2024-04-28 03:54:19.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 7,
+"id_user": 10
+},
+{
+"id": 36,
+"title": "Samsung Galaxy Dolorum",
+"price": 859,
+"discount": 0,
+"specifications": [
+"Culpa tempora.",
+"Aut porro."
+],
+"description": "Ipsum ratione quas ab unde. Dolorem qui voluptatem culpa et ut veritatis. Fugiat nihil omnis deserunt porro facilis possimus et enim. Quidem vel maxime cum consequuntur temporibus nostrum fugiat. Dolorem aspernatur eligendi error harum vitae quaerat vero. Ex velit impedit aut ipsa et aut. Libero illo aliquid nulla dolor sit. Deserunt eligendi omnis accusantium quisquam magnam atque. Ab quia qui rerum at. Sunt ea doloremque commodi laudantium. Beatae quas itaque ducimus est autem aliquid accusantium. Dolores illum ratione eveniet quas eos. Fugiat rerum quisquam nemo. Qui dolorum consequuntur qui et itaque enim. Non quia non cum eos. Consequatur quam voluptatibus dolore nulla repellat illo. Aliquam quo ipsam culpa quos facilis distinctio. Error rerum rerum illum odio. Quia ratione voluptas sed occaecati. Aliquid doloribus libero et in ullam. Recusandae in porro vitae ipsam unde quia sint. Voluptatem nisi rerum commodi omnis illo nobis.",
+"rate": 0.4,
+"published": {
+"date": "2024-05-06 09:50:52.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 17
+},
+{
+"id": 37,
+"title": "Xiaomi Inventore",
+"price": 1438,
+"discount": 0,
+"specifications": [
+"Placeat.",
+"Et.",
+"Voluptatum aliquid."
+],
+"description": "Reiciendis necessitatibus vel repellendus. Autem porro delectus consequatur repellat quia. Nobis id voluptas voluptas officia. Molestiae ullam explicabo velit consequatur. Consequuntur delectus eaque in sint iste porro eaque. Sed ipsa dolor at quam. Veritatis facilis ipsa aut. Fuga quam modi ratione sint. Maiores laborum quaerat a facere. Voluptas accusantium voluptas sint ipsa quasi aliquam. Nemo odio natus voluptatum eius architecto. Ad dolores accusantium sit enim voluptas enim. Illum aut explicabo impedit minima. Cumque ut dolor ut amet eaque maiores. Ullam odit enim voluptate ut. Officia quaerat molestiae veniam assumenda. Necessitatibus placeat non sit omnis ipsam rem autem. Suscipit similique ipsam quis rerum sint. Voluptatem vel accusamus sit distinctio. Aut dolore cum quod sit ut adipisci dolor. Excepturi rem voluptatem vel quibusdam. Veritatis rerum eum architecto rem pariatur voluptatem esse. Pariatur placeat vero sunt saepe omnis officia in reiciendis. Ratione consequatur et voluptatem soluta quo. Itaque ea sit et natus corrupti. Voluptatem aspernatur suscipit aut rem voluptate. Totam consequatur quia vero nobis illo. Velit voluptatem explicabo dolorum cumque consequatur.",
+"rate": 1.3,
+"published": {
+"date": "2024-05-05 03:03:38.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 6,
+"id_user": 5
+},
+{
+"id": 38,
+"title": "Motorola Alias",
+"price": 4878,
+"discount": 18,
+"specifications": [
+"Provident.",
+"Ipsam qui."
+],
+"description": "Nobis nihil ut laborum omnis sequi sint. Blanditiis laboriosam eaque sapiente in. Quos et natus dolorem nesciunt repudiandae blanditiis aut rem. Praesentium aspernatur sint doloremque error in. Ad velit molestiae non voluptatem. Voluptas voluptate odit voluptatum ratione dolorem qui sed. Delectus iusto quo numquam aut. Rerum sed fugit similique voluptatem aut. Sed cumque voluptatum vero nisi eligendi sit soluta. Ex nisi assumenda nihil possimus sequi quas aut. Rerum voluptatem maiores fuga qui facere. Quas consequatur fuga dolores nostrum eos. Amet ab magnam ea amet. Molestias qui inventore maiores neque aspernatur ut. Rem consequuntur sint alias hic accusantium. Deserunt optio quos debitis vitae distinctio eum. Molestiae iure tenetur fugiat ut animi. Vitae aliquam consectetur omnis nihil repudiandae ea neque. Aut suscipit ut eos libero. Dicta similique similique qui ut. Non fugiat nesciunt repudiandae voluptatem.",
+"rate": 3.9,
+"published": {
+"date": "2024-05-03 15:01:33.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 12
+},
+{
+"id": 39,
+"title": "Mouse Esse",
+"price": 747,
+"discount": 18,
+"specifications": [
+"Ipsum accusantium.",
+"Repellendus repellendus.",
+"Enim quos.",
+"Omnis velit."
+],
+"description": "Omnis repellat molestiae placeat qui possimus. Autem eveniet similique voluptas totam earum. Distinctio aliquam aut atque ut sint voluptas. Atque laboriosam nesciunt a. Incidunt itaque voluptatum qui perspiciatis et quis. Exercitationem maxime consequatur quia et ipsam. Cum nihil illum sapiente sit et repellendus. Voluptas neque consequatur est quod possimus omnis. Soluta sed ut natus facilis aspernatur error aliquam. Quos officiis quae ratione consequuntur sapiente ab. Ipsa voluptate sit autem qui corrupti illum. Et nobis sit et dolor consequuntur sed labore et. Et aliquid tempora fugit est deserunt sunt dolor. Quia iste repellat qui animi autem. Aut velit assumenda quasi tempora. Delectus minima ipsa odit rerum.",
+"rate": 2.4,
+"published": {
+"date": "2024-05-01 19:47:51.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 3
+},
+{
+"id": 40,
+"title": "Motherboard Non",
+"price": 4087,
+"discount": 0,
+"specifications": [
+"Sit."
+],
+"description": "Nostrum unde tempore laudantium quod. Fuga nesciunt et atque aut magnam. Est quo occaecati quo dolor et hic. Est nihil eum et deleniti dignissimos esse eum. Quia sunt qui perspiciatis unde quidem laudantium. Quia veniam id officia nemo eos ut. Quis labore nobis voluptatum fuga sint nobis distinctio commodi. Natus et aspernatur fugiat maxime fuga vitae. Odit magnam molestias nesciunt dolores sit nostrum nulla. Porro sit numquam consequuntur eum libero fugit sit. Perspiciatis tempore non qui iusto ut esse. Beatae sunt corporis voluptatibus dolorum placeat quidem. Quaerat cumque porro nihil quisquam nesciunt atque sit. Voluptate consectetur sit quia error iure deserunt. Assumenda non rem id nihil. Omnis quibusdam eos quaerat. Minus voluptate eum numquam maxime. Accusantium minus consequatur labore ut. Culpa exercitationem ipsum qui consequatur qui facilis sit. Repellat provident facere quos est quaerat molestiae dolorem. Voluptate et amet sed facilis culpa molestiae repellendus. Debitis omnis ipsam quia eum itaque magnam. Possimus qui perferendis explicabo ullam sunt quo. Numquam et dignissimos accusamus. Doloribus qui distinctio voluptates voluptatem sapiente reiciendis. Reprehenderit consectetur at possimus tempora. Autem et cupiditate assumenda facilis ipsa voluptatibus adipisci.",
+"rate": 1,
+"published": {
+"date": "2024-05-10 17:09:27.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 7,
+"id_user": 2
+},
+{
+"id": 41,
+"title": "HDD Cupiditate",
+"price": 3584,
+"discount": 33,
+"specifications": [],
+"description": "Ipsam qui et dolorum recusandae est quia ut. Maiores reprehenderit libero dolor eius maxime. Et eos corrupti impedit veritatis dolor vel iusto. Eum minima laboriosam repellendus. Quisquam aut repellendus deserunt possimus dolor atque magnam odio. Illo laboriosam expedita assumenda a voluptate. Nostrum aut voluptate porro et qui aliquam. Esse ea vel autem est architecto similique molestias. Enim quia modi aut culpa. Officiis tempore asperiores blanditiis praesentium dolorum. Earum dignissimos illum nam explicabo neque. In quasi quia rerum. Ea ratione cupiditate voluptatibus dolorem doloribus.",
+"rate": 1.2,
+"published": {
+"date": "2024-05-07 04:29:08.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 4,
+"id_user": 5
+},
+{
+"id": 42,
+"title": "Keyboard Sit",
+"price": 4044,
+"discount": 0,
+"specifications": [
+"Iusto."
+],
+"description": "Laborum quaerat voluptate cupiditate minima cumque. Praesentium enim aut dolorem. Sed eius ipsa quia. Ea ut vel voluptatem et quod. Nam quia aliquam voluptatem hic. Voluptatibus molestiae facilis molestiae voluptates nihil. Quia est suscipit natus sint ex suscipit exercitationem. Repellendus aut est et possimus officia reiciendis corporis. Officia odio non est. Non quidem laudantium laboriosam libero in eveniet nam. Labore voluptas ab et recusandae quo. Aut nobis dolore unde eum quo veniam est. Sit sit saepe repudiandae. Quod ab laudantium deserunt. Laboriosam autem et architecto eum qui ullam. Et quis commodi aliquam. Distinctio adipisci eius reprehenderit dolore quo enim. Eum voluptas omnis qui non. Voluptatem vitae quia iure autem culpa. Dolor tempore voluptas doloribus iste accusantium voluptatibus impedit. Quisquam sed quo deserunt expedita est rerum. Totam non quaerat et animi consequatur eum.",
+"rate": 2.7,
+"published": {
+"date": "2024-05-07 15:31:46.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 2
+},
+{
+"id": 43,
+"title": "Google Pixel Itaque",
+"price": 3625,
+"discount": 0,
+"specifications": [
+"Ex placeat.",
+"Quasi in."
+],
+"description": "Ad ut neque ut tenetur. Voluptates quo aut est autem. Autem maxime ut omnis odio sed. Earum assumenda voluptas sit quidem officia harum vero. Necessitatibus provident et culpa quia aut architecto odio. Aut repellendus quia necessitatibus. Aut veritatis mollitia facilis reiciendis non sed. Est dolorem dolores aperiam itaque. Quibusdam veritatis commodi qui a magni. Pariatur expedita sunt nihil qui nemo ut debitis. Eaque cumque harum sit fugit libero aut aut soluta. Doloribus rerum alias neque veniam beatae eum repellat tenetur. Omnis doloribus et est veniam doloribus et voluptates dolores. Esse est sint quam ratione. Inventore optio porro quo perspiciatis quia. Vel unde officiis officiis mollitia. Magni molestiae et recusandae quaerat accusamus.",
+"rate": 3.2,
+"published": {
+"date": "2024-05-01 18:42:54.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 7,
+"id_user": 12
+},
+{
+"id": 44,
+"title": "SSD Aliquid",
+"price": 4084,
+"discount": 0,
+"specifications": [
+"Et consequatur.",
+"Occaecati quia.",
+"Aut necessitatibus.",
+"Non voluptas.",
+"Voluptatem.",
+"Expedita."
+],
+"description": "Quasi omnis sit eius ipsum alias perspiciatis. Qui id et atque neque. Quibusdam magnam est dolorem ut omnis quos. Odio nemo deserunt neque in. Consectetur itaque eos culpa expedita. Et enim quis hic sunt. Ut omnis similique quos doloremque velit. Officia libero non dolorem tempora recusandae officia. Quia id nemo voluptas ipsam. Voluptatibus et culpa dolor consequatur. Accusantium assumenda aut totam exercitationem eos voluptatem saepe. Eius reprehenderit adipisci et at quasi. Ut nisi itaque numquam a. Officia minima ut aut at doloribus laborum sed. Minus hic aliquam aspernatur eos sed repellat similique ullam. Nesciunt fugiat corrupti aliquam consequatur dolores blanditiis.",
+"rate": 1.2,
+"published": {
+"date": "2024-05-05 14:09:50.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 4
+},
+{
+"id": 45,
+"title": "Google Pixel Maiores",
+"price": 3534,
+"discount": 0,
+"specifications": [
+"Blanditiis explicabo.",
+"Libero.",
+"Earum quo.",
+"Aperiam."
+],
+"description": "Sed et aut accusamus in est dolorum. Placeat omnis nostrum non eum accusamus suscipit consequatur laboriosam. Dolor architecto et non quibusdam. Voluptatibus consequatur corrupti quae aliquid. Sit ut distinctio dolores non. Aperiam voluptas dolorum quia minus ut doloribus fugiat ad. Eius neque ex et autem voluptas qui aut. Odio impedit fugiat quas magni molestias aperiam commodi quisquam. Est aspernatur est fugit aspernatur esse architecto aliquid aperiam. Veritatis voluptates sed iure cumque vitae repellat. Aliquam eveniet laboriosam dolor ea cum quis aut. Pariatur enim ab rerum non. Est a fuga asperiores dignissimos eligendi sit. Inventore quod cumque et voluptas maxime vel. Dolore eum sequi est ducimus dolores. Ex accusantium quas porro dolorem explicabo sed laborum et. Voluptatem nesciunt nesciunt minima hic consectetur molestias reprehenderit. Qui quam est fuga quo quae consectetur. Sequi non aut officiis molestiae dicta itaque ut vero. Maiores dolorem exercitationem architecto quae quisquam nisi voluptatum. Iste quasi corporis aliquid. Dolores odio illo esse et perferendis qui.",
+"rate": 4.8,
+"published": {
+"date": "2024-05-04 21:47:38.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 7,
+"id_user": 7
+},
+{
+"id": 46,
+"title": "Graphics Card Laudantium",
+"price": 3788,
+"discount": 0,
+"specifications": [
+"Impedit.",
+"Et ut.",
+"Quidem.",
+"Sit ut."
+],
+"description": "Sit quis molestiae ipsum numquam ipsa iure provident reiciendis. Nostrum qui facilis quia fugit officiis culpa qui deleniti. Molestiae et quis odio eos voluptatem dolorem. Enim consequatur deleniti aspernatur natus nemo. Accusamus recusandae deleniti velit officiis. Et iusto sed facere in et magni consequuntur. A dignissimos molestiae et pariatur. Nisi quia in numquam vitae eum. Sequi earum possimus id cumque aspernatur qui. Molestias quos repellendus sequi vero. Sunt ex eius dolores rerum et aut voluptas eos. Fugit quaerat non consequatur ipsam ab sunt atque. Possimus quis qui facere. Aut omnis dolore debitis. Omnis illo magni necessitatibus vel. Officia possimus dolorem vel qui maiores quam. Eius autem deleniti aut tempore natus.",
+"rate": 1.6,
+"published": {
+"date": "2024-04-28 21:31:58.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 5,
+"id_user": 14
+},
+{
+"id": 47,
+"title": "SSD Dolorum",
+"price": 2714,
+"discount": 0,
+"specifications": [
+"Tempore voluptatibus.",
+"Aut."
+],
+"description": "Tenetur voluptates molestiae sit et ratione blanditiis laborum. Amet quo non et aut maxime. Rerum minima omnis dolore est voluptatem delectus. Voluptates maxime qui ducimus quae autem. Enim voluptas accusantium eum est. Officia vel sint accusamus voluptate modi ut dolorum quae. Qui quisquam natus optio quia. Est quo et possimus. Et incidunt ab temporibus nobis deserunt harum. Inventore libero aperiam consequatur at porro consequatur et. Non sit modi quia officiis. Eligendi pariatur quos sequi quod iusto. Minus nihil minima veritatis sit ipsum consequuntur. Neque dolorem odit quidem dolores temporibus necessitatibus sint. Eligendi esse qui et a unde minus. Est sed cum velit vero vero.",
+"rate": 3.2,
+"published": {
+"date": "2024-05-07 06:43:45.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 3,
+"id_user": 8
+},
+{
+"id": 48,
+"title": "Xiaomi Id",
+"price": 1054,
+"discount": 0,
+"specifications": [],
+"description": "Et voluptatem fuga atque. Ducimus vero ut impedit. Cum veritatis velit et cumque enim. Laudantium sit tenetur qui. Qui aliquid laboriosam qui non est. Nesciunt aliquid optio voluptas temporibus nihil cupiditate in. Fugit et itaque sint ad sunt. Numquam asperiores et labore eaque quidem. Sint architecto qui illo aut eaque omnis ducimus. Error optio necessitatibus et sed et iusto. Voluptas cupiditate omnis magnam ut illum totam hic vel. Sunt vel amet accusantium reprehenderit eum sed vitae. Perspiciatis voluptatem et totam. Dolore recusandae omnis saepe quae. Ipsum nesciunt repudiandae iusto enim. Eveniet quod fugiat deserunt distinctio. Molestias amet temporibus ullam harum. Eius quae quidem impedit beatae quia commodi ratione. Nihil dolores commodi error atque assumenda ea. Dolores iusto molestias qui ut excepturi. Assumenda qui non minus. Omnis architecto harum sed ut ab vero. Dolorum ea quia eaque perferendis voluptatem dolore enim in. Fuga consequatur architecto impedit distinctio ab voluptate. Et ducimus beatae cumque temporibus.",
+"rate": 0.5,
+"published": {
+"date": "2024-04-29 00:45:15.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 6,
+"id_user": 10
+},
+{
+"id": 49,
+"title": "Xiaomi Esse",
+"price": 1760,
+"discount": 0,
+"specifications": [
+"Deleniti.",
+"Neque.",
+"Ipsum fugit."
+],
+"description": "Saepe omnis labore similique quisquam ut. Rerum quibusdam deserunt aut illo sint optio sed. Nemo est velit qui vitae itaque deserunt voluptas. Libero quibusdam ut molestias. Accusantium aliquid corporis necessitatibus sint dignissimos. Quod ab beatae quod. Molestiae aut consectetur unde eum. Architecto minima quia a corporis neque. Doloremque enim sequi nihil fugiat. Consequatur quis non et id pariatur. Minus ut non voluptatum dignissimos. Et asperiores ut iste est distinctio beatae. Accusamus possimus quia quisquam veritatis. Nihil nihil repellendus nulla eos provident veniam quia. Quod quis soluta ut doloremque quas ipsam provident. Eius et ut qui tempora consequuntur quo. Et eligendi est nihil quaerat tempore voluptatibus. Consequatur odit non qui exercitationem atque. Quo et explicabo reiciendis vel. Corporis vel culpa omnis illum rerum quis sed. Et atque deleniti commodi omnis eos asperiores. At odit ipsa harum corporis quisquam sapiente velit id. Et magnam amet quibusdam expedita. Ut ea aut ipsam reiciendis vero facilis. Accusantium tempore impedit voluptatum ut asperiores.",
+"rate": 1.2,
+"published": {
+"date": "2024-04-27 23:22:05.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 6,
+"id_user": 1
+},
+{
+"id": 50,
+"title": "HDD Non",
+"price": 3097,
+"discount": 0,
+"specifications": [
+"Nihil.",
+"Et explicabo.",
+"Dolor."
+],
+"description": "Et dolorem molestiae magni distinctio tempore impedit. Molestias molestiae natus architecto voluptatum. Iste totam rem sint non velit natus dignissimos expedita. Voluptatem aut fugiat blanditiis quia distinctio facere. Totam repellat est quaerat nesciunt commodi exercitationem error. Non doloribus cumque magni magnam. Autem sit voluptas corrupti temporibus delectus molestias ut voluptatem. Eum maiores ab aliquid qui id. Consequatur aut enim fugit est praesentium. Suscipit et assumenda aspernatur consequatur. Perspiciatis facere dolorem nam aut labore nobis consequatur. Non voluptatem impedit labore. Cumque doloribus provident qui omnis maiores laudantium ipsum. Fugiat optio dicta molestiae fugiat ut enim. Quod cupiditate dolorum voluptatibus nihil. Velit qui eius maiores voluptatem modi harum. Voluptas voluptatem a possimus modi fuga rerum.",
+"rate": 0.6,
+"published": {
+"date": "2024-05-01 18:21:19.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 4,
+"id_user": 4
+},
+{
+"id": 51,
+"title": "Mouse Sit",
+"price": 2999,
+"discount": 0,
+"specifications": [
+"Porro.",
+"Distinctio debitis."
+],
+"description": "Est sit soluta eum et voluptatem quia itaque. Architecto voluptatibus sed quis. Eaque aspernatur et voluptas dolor. Corrupti repellat sed aut praesentium soluta aliquam. Officia quasi pariatur repudiandae laborum saepe inventore. Ea voluptatem magni qui fuga dolores sint vitae officiis. Totam eos facilis adipisci minima illo. Sapiente aut fugit hic qui hic alias reprehenderit. Ad unde distinctio assumenda nostrum molestias. Sunt iure cumque aspernatur consectetur nemo animi sequi iusto. Ullam aut ut incidunt et officia deserunt. Aut voluptatem et sed. Unde quia quos accusamus. Numquam quibusdam beatae tenetur enim perspiciatis est. Ipsum non voluptatem est dolor. Magni voluptatem nihil reprehenderit rerum reiciendis. Illum omnis dolor laborum vel. Ut est hic accusamus quos perspiciatis. Sint reprehenderit enim nostrum quia. Sunt qui atque distinctio. Soluta deleniti animi voluptatem eum soluta sunt ducimus. Soluta quia consequatur nihil id aspernatur enim mollitia. Soluta ut non sit autem. Quia et enim repellendus sunt ut et optio. Deserunt fuga quod corporis quis omnis a soluta.",
+"rate": 1.7,
+"published": {
+"date": "2024-05-04 08:10:04.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 9
+},
+{
+"id": 52,
+"title": "Samsung Galaxy Neque",
+"price": 4076,
+"discount": 0,
+"specifications": [
+"Qui sint."
+],
+"description": "Deserunt sint aliquid dolorem nemo eum. Repudiandae iusto id repudiandae quod et aut aperiam. Exercitationem natus nihil cupiditate at vitae aspernatur. Ratione repudiandae vero aspernatur accusamus. Qui voluptas earum et id. Sed nemo illo est quia fugit. Qui unde consequatur eos totam aut voluptatem. Ipsum ut aliquid numquam nam quibusdam ipsum. Exercitationem recusandae iusto aut quia explicabo harum. Temporibus sint hic a numquam blanditiis facere. Unde eum sunt et placeat autem rerum quia. Velit est blanditiis possimus sequi possimus. Alias repudiandae et explicabo laboriosam id voluptatem. Facilis sit enim dolore et officia quos. Quis voluptas illo qui commodi. Eum ut molestiae dolore atque ut et. Corporis saepe ea similique quae aliquid. Dicta iusto voluptas quia non animi illum suscipit culpa. At qui repellat dignissimos autem necessitatibus sed repellendus. Et vero sapiente quia necessitatibus quae aspernatur. Perferendis accusamus voluptas natus tempora. Harum soluta rerum commodi sunt molestiae aperiam eligendi. Accusantium doloremque repudiandae sunt tempore et aut explicabo. Voluptatibus sed et sed facere consequuntur. Non fuga odit cum sapiente vero. Reiciendis ipsam ut architecto autem ea possimus.",
+"rate": 3.9,
+"published": {
+"date": "2024-05-08 13:29:24.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 5
+},
+{
+"id": 53,
+"title": "Keyboard Eaque",
+"price": 2181,
+"discount": 0,
+"specifications": [
+"Ut doloremque."
+],
+"description": "Sunt placeat eveniet eos minima. Minima rerum excepturi laudantium quibusdam quia. Voluptatibus ea expedita soluta sed nostrum ipsam ipsam. Placeat et occaecati rerum blanditiis error. Facilis voluptas ut et dicta dolorum hic aperiam est. Omnis ullam dolorem debitis maiores est voluptas debitis. Eaque fuga sed eum qui deleniti. Exercitationem distinctio quo sint sequi. Officiis dignissimos rem quia perspiciatis occaecati non. Animi quia aperiam nihil quos saepe qui et. Voluptatem quis provident eum ab excepturi iste. Natus aut pariatur eum consectetur pariatur. Veniam et debitis perspiciatis neque ab. Earum dolores unde autem molestiae consectetur fugit ea ipsam. Rem nihil reprehenderit accusamus recusandae ipsum. Quia atque numquam quia placeat perferendis eos voluptatem. Fugiat quasi deserunt omnis perferendis. Eius cum et placeat quia. Voluptatem omnis sed a est repellat corporis facilis.",
+"rate": 3.4,
+"published": {
+"date": "2024-05-04 08:03:06.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 0
+},
+{
+"id": 54,
+"title": "Monitor Et",
+"price": 2011,
+"discount": 69,
+"specifications": [
+"Ipsam.",
+"Ratione."
+],
+"description": "Consequatur fugiat reiciendis nihil quis ut. Id reprehenderit ut repellendus eos dolorem. Autem dolores quis voluptatum. Autem veritatis laborum itaque autem reprehenderit. Rerum at qui et culpa repudiandae id amet. Voluptas eos enim sunt occaecati nihil autem porro. Harum et necessitatibus amet aut et adipisci. Eum facilis expedita aut sunt eos. Soluta velit et blanditiis omnis quae nam quis. Aut autem et necessitatibus. Magnam ut et porro illum necessitatibus hic ea incidunt. Ipsa asperiores possimus consequatur omnis dolor debitis et quia. Accusamus voluptas expedita explicabo rem quidem magnam officia. Tenetur delectus ex et enim eum illo qui eveniet. Eos facere non voluptatem rerum. Dignissimos voluptatem voluptatem numquam voluptatem. Saepe et velit aut sed enim omnis eum sapiente. Hic sint et nam. Tenetur ullam ut consequatur ducimus reprehenderit hic alias. Qui molestias omnis tempore. Quidem tempore ipsam eos maiores optio rerum ea. Inventore et dicta suscipit eligendi repellat aperiam sed.",
+"rate": 4.9,
+"published": {
+"date": "2024-05-01 00:01:11.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 18
+},
+{
+"id": 55,
+"title": "Xiaomi Et",
+"price": 1220,
+"discount": 0,
+"specifications": [
+"Officiis.",
+"Omnis facilis."
+],
+"description": "Est nihil id at saepe labore totam aliquid. Facilis et sint et harum in optio. Ipsa velit natus fugiat laboriosam. Est qui provident at accusantium consequuntur animi. Qui voluptates adipisci praesentium aut minima iure ea. Iusto veritatis voluptatibus harum est fuga. Laudantium impedit qui tempore tempora animi. Eos veniam et voluptatem voluptatum veritatis nobis. Facere optio nihil dolores ducimus beatae voluptas at. Dolores quas dolores et est ut natus. Quaerat expedita consequatur dolorum quas nulla at voluptates. Ut doloremque molestias temporibus dolore eius. Quia saepe corporis qui ut magnam sint quia. Beatae provident commodi nihil cum et tempora. Praesentium dicta qui iusto aut sint non. Molestias et voluptatibus ut velit suscipit aut optio. Qui tempora fugiat dolores omnis. Quos et distinctio quis fugiat dolorum qui. Nobis beatae impedit consectetur reprehenderit tempore voluptatem omnis. Debitis laudantium similique et.",
+"rate": 2.3,
+"published": {
+"date": "2024-05-06 05:12:48.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 6,
+"id_user": 9
+},
+{
+"id": 56,
+"title": "Mouse Velit",
+"price": 4256,
+"discount": 0,
+"specifications": [],
+"description": "Laudantium enim consequuntur vero amet. Magni ipsa voluptatem autem repudiandae qui quis voluptatum. Dolorum dignissimos quibusdam maiores excepturi ullam. Expedita ipsa nisi neque quas. Iste sapiente recusandae quia fugiat. Omnis sed delectus et eius. Quia esse enim ut sint eum aut. Sed consequatur sit saepe. Voluptas nostrum blanditiis at et harum sed architecto. Sed error qui non mollitia corrupti eaque ducimus. Tempore blanditiis sunt consequatur harum dicta. Facere voluptatum ipsum repudiandae ullam. Ipsum cupiditate ut quia corporis commodi eligendi.",
+"rate": 4.6,
+"published": {
+"date": "2024-05-07 03:53:59.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 9
+},
+{
+"id": 57,
+"title": "iPhone Quaerat",
+"price": 1415,
+"discount": 0,
+"specifications": [
+"Et.",
+"Laborum veritatis.",
+"Consequuntur dolorem.",
+"Provident qui."
+],
+"description": "Porro neque culpa velit aut laborum. Repellat voluptas cumque autem quam omnis amet rerum labore. Porro quia vero consequatur reiciendis. Possimus saepe eos autem quis non. Consequatur voluptas quam omnis quos voluptatum officiis. Excepturi facilis quod dicta repellat est. Sit nesciunt possimus quod occaecati. Voluptatibus a amet voluptatum ullam dolor qui autem. A assumenda excepturi quibusdam libero. Eius quibusdam animi sint. Officia vitae eius neque et nesciunt modi. Laudantium et recusandae error rerum consequatur aspernatur dolor. Possimus enim sit odio et. Itaque quo autem optio veniam expedita. Non molestias porro molestiae sint nostrum velit velit. Ad ratione veniam eos dolor architecto. Quia laboriosam voluptatem facere fugit eaque velit excepturi. Minima assumenda quasi omnis blanditiis dolorum saepe eius. Molestiae accusantium a omnis repudiandae magnam corporis. Cupiditate repellat dolores ipsam provident quia inventore placeat.",
+"rate": 4,
+"published": {
+"date": "2024-05-10 06:07:57.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 1,
+"id_user": 3
+},
+{
+"id": 58,
+"title": "Motorola Facere",
+"price": 4842,
+"discount": 0,
+"specifications": [
+"Et.",
+"Aut.",
+"Dolores quibusdam.",
+"Ad non."
+],
+"description": "Qui sequi aut quae hic impedit soluta dicta. Fugit exercitationem sunt quia natus dolorem. Magni placeat eius voluptatibus velit sed. Et fugiat voluptatem praesentium iste et autem asperiores. Id magni id a quasi atque in. Labore a fugiat odio corrupti. Omnis quia ut consequatur perferendis. Qui consequatur est sunt ipsa unde. Recusandae cum et tempora provident rem neque est. Dolores sunt ea eveniet in. Suscipit rerum inventore numquam voluptatibus. Cupiditate temporibus omnis quia quasi. Et tempore labore occaecati assumenda. Aut soluta consequatur dolores beatae voluptatem eaque nulla.",
+"rate": 4.8,
+"published": {
+"date": "2024-05-06 22:23:51.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 2,
+"id_user": 1
+},
+{
+"id": 59,
+"title": "Samsung Galaxy Aperiam",
+"price": 4747,
+"discount": 0,
+"specifications": [
+"Dignissimos.",
+"Animi."
+],
+"description": "Vel molestiae aspernatur ipsam sint sit. Quae quis beatae itaque porro. Distinctio maiores ullam consequatur. Hic distinctio id officiis quia. Modi rerum consequuntur temporibus consequatur iusto voluptas. Cumque et quo illo quo eum. Facere eligendi dolor voluptates sit. Alias maxime numquam distinctio optio. Et quasi voluptas maxime repellat qui iure. Eos deserunt consequatur reprehenderit aperiam. Doloribus deserunt eligendi amet officia qui repellendus odit. Non quisquam eos totam omnis architecto minima sunt. Excepturi illo rerum aliquid doloremque et vitae et. Facilis aut praesentium quia rem minima neque nesciunt. At voluptates quo eaque velit est et quas.",
+"rate": 1.4,
+"published": {
+"date": "2024-05-11 20:46:31.000000",
+"timezone_type": 3,
+"timezone": "UTC"
+},
+"id_productType": 0,
+"id_user": 14
+}
+],
+"productTypes": [
+{
+"id": 0,
+"name": "Mouse",
+"id_category": 0
+},
+{
+"id": 1,
+"name": "Keyboard",
+"id_category": 0
+},
+{
+"id": 2,
+"name": "Monitor",
+"id_category": 0
+},
+{
+"id": 3,
+"name": "SSD",
+"id_category": 0
+},
+{
+"id": 4,
+"name": "HDD",
+"id_category": 0
+},
+{
+"id": 5,
+"name": "Graphics Card",
+"id_category": 0
+},
+{
+"id": 6,
+"name": "CPU",
+"id_category": 0
+},
+{
+"id": 7,
+"name": "Motherboard",
+"id_category": 0
+},
+{
+"id": 0,
+"name": "Samsung Galaxy",
+"id_category": 1
+},
+{
+"id": 1,
+"name": "iPhone",
+"id_category": 1
+},
+{
+"id": 2,
+"name": "Motorola",
+"id_category": 1
+},
+{
+"id": 3,
+"name": "Huawei",
+"id_category": 1
+},
+{
+"id": 4,
+"name": "Sony Xperia",
+"id_category": 1
+},
+{
+"id": 5,
+"name": "LG",
+"id_category": 1
+},
+{
+"id": 6,
+"name": "Xiaomi",
+"id_category": 1
+},
+{
+"id": 7,
+"name": "Google Pixel",
+"id_category": 1
+}
+],
+"categories": [
+{
+"id": 0,
+"name": "Computer Hardware",
+"id_meta": 0
+},
+{
+"id": 1,
+"name": "Smartphones",
+"id_meta": 0
+},
+{
+"id": 2,
+"name": "Smart TVs",
+"id_meta": 0
+}
+]
+}

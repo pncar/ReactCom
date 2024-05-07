@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .page-style{
+        @apply m-auto w-full container;
+    }
+}
