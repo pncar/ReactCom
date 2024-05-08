@@ -14,7 +14,7 @@ For simplicity I used [json-server](https://www.npmjs.com/package/json-server) t
 - TypeScript
 - NodeJS and json-server for mockup "server"
 
-## Tools used
+## How to run
 1. Create an empty folder to store the project
 2. Go to the folder created and clone the repository https://github.com/pncar/ReactCom `git clone https://github.com/pncar/ReactCom.git`, or download the content from this repository as zip
 3. Go to the frontend/redux-store or frontend -> redux-store folder, and run `npm run dev`
