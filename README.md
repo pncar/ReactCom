@@ -9,7 +9,7 @@ For simplicity I used [json-server](https://www.npmjs.com/package/json-server) t
 - Redux
 - TailwindCSS
 - Axios
-- react-router-dom
+- React Router
 - Vite
 - TypeScript
 - NodeJS and json-server for mockup "server"
