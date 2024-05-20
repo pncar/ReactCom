@@ -1,5 +1,5 @@
 # React e-Commerce
-![React e-Commerce](https://i.imgur.com/D1cM1Yx.png)
+![React e-Commerce](https://i.imgur.com/oa27ssY.png)
 
 Simple react-based e-Commerce which allows the user to search for products and view product details, as well as accessing the product's seller profile and find other products by the same offerer. Based on a previous project I made last year, in this case I also implemented TypeScript and centralized the app's logic using Redux. It also handles some small local storage settings like dark mode on/off.
 The app allows the user to modify it's basic data and add products to a cart, which also counts how many products are present and the total price. It also handles discounts on the products which have them.
